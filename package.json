@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "crypto-js": "^4.1.1",
+    "dom": "^0.0.3",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "jsdom": "^19.0.0",
+    "jsencrypt": "^3.2.1"
+  }
+}
